@@ -8,10 +8,10 @@ const AppLoader = () => {
     <div className={styles.Loader}>
       <Loader
         style={styles}
-        type="ThreeDots"
+        type="Puff"
         color="#fc4c00"
-        height={100}
-        width={100}
+        height={400}
+        width={400}
       />
     </div>
   );
