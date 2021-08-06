@@ -9,7 +9,7 @@ const AppLoader = () => {
       <Loader
         style={styles}
         type="Puff"
-        color="#fc4c00"
+        color="#a3a7ad"
         height={400}
         width={400}
       />
